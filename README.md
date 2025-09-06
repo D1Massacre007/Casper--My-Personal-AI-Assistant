@@ -1,6 +1,6 @@
 # Casper – AI Personal Assistant (Agentic AI)
 
-**Casper** is a personal agentic AI assistant that autonomously performs multi-step tasks such as fetching news, summarizing content, suggesting actionable steps, and more. Built with **GPT-4, LangChain, and Python**, Casper demonstrates how AI can make decisions, act toward goals, and continuously learn to improve performance.
+**Casper** is a personal agentic AI assistant that autonomously performs multi-step tasks such as fetching news, summarizing content, suggesting actionable steps, and more. Built with **GPT-5, LangChain, and Python**, Casper demonstrates how AI can make decisions, act toward goals, and continuously learn to improve performance.
 
 ## Features
 - **Autonomous Multi-Step Reasoning**: Casper can plan, execute, and evaluate tasks without step-by-step human guidance.  
