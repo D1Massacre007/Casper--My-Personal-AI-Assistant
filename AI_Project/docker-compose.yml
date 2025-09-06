@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  ai_project:
+    build: .
+    volumes:
+      - ./:/app
+    environment:
+      - OPENAI_API_KEY
+      - GOOGLE_SERVICE_ACCOUNT_FILE
+      - SMTP_HOST
+      - SMTP_PORT
+      - SMTP_USER
+      - SMTP_PASSWORD
+      - NEWS_API_KEY
+    ports:
+      - "8000:8000"
